@@ -38,8 +38,8 @@ My main challenge was working with Git for commiting and pushing the Xcode Proje
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
-
+    Copyright 2020 Samuel Sandoval
+    
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
